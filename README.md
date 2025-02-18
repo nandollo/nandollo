@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicholas Andollo Odanga.
-- 👀 I’m interested in working on projects that are developed and deployed for the cloud. Projects that solve real life problems and work towards a greater good.
-- 🌱 I’m currently learning on Google Cloud and Microsoft Azure products and services.
-- 🌱 I’m currently working on a food delivery application that is available on the web and mobile. 
+- 👀 I’m interested in working on projects that are developed and deployed for the AWS, Google, and Microsoft Azure cloud. Projects that solve real-life problems and work towards a greater good.
+- 🌱 I’m currently learning on how to create ETL projects using Python on Microsoft Fabrics.
+- 🌱 I’m currently working on a Restaurant API that will be available for consumption.
 - 💞️ I’m looking to collaborate on payment solutions and data engineering projects
 - 📫 How to reach me on hi@nicholasodanga.com or www.linkedin.com/in/nicholasodanga
 
